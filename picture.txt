@@ -1,0 +1,3 @@
+4. Use stock photos from picsum.photos where appropriate, only valid URLs you know exist
+5. Configure next.config.js image remotePatterns to enable stock photos from picsum.photos
+7. Automatically source and display logos from a CDN in design placeholders
